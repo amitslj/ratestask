@@ -1,0 +1,5 @@
+flask
+pyscopg2
+unittest
+pandas
+requests
