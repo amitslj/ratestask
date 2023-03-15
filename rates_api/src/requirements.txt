@@ -1,5 +1,4 @@
 flask
-pyscopg2
-unittest
+psycopg2
 pandas
 requests

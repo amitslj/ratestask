@@ -1,5 +1,5 @@
 import unittest
-from src.main import get_custom_rates
+from ratestask.rates_api.src.main import get_custom_rates
 import pandas as pd
 
 
